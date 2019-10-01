@@ -43,6 +43,5 @@ end
   if hash[key]
     hash[key] += 1
   else
-    hah[key] = 1
-
-end
+    hash[key] = 1
+  end
